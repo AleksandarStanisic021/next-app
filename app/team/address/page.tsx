@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Address",
+  description: "Contact information for our team",
+};
+
 export default function Address() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-orange-500 font-sans dark:bg-black">
