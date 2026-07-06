@@ -1,7 +1,7 @@
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div>
-      <h3>yo 1</h3>
+      <h3>yo 2</h3>
       {children}
     </div>
   );
